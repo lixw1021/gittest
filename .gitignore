@@ -6,3 +6,5 @@
 /build
 /captures
 .externalNativeBuild
+**/*/res/values/secret.xml
+app/src/main/res/values/strings.xml
