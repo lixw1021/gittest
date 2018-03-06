@@ -8,3 +8,5 @@
 .externalNativeBuild
 **/*/res/values/secret.xml
 app/src/main/res/values/strings.xml
+app/libs/
+app/src/main/res/drawable/
